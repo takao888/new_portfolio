@@ -2,7 +2,7 @@ import { PortfolioData } from '../types/portfolio';
 
 export const portfolioData: PortfolioData = {
   header: {
-    name: "山田 太郎",
+    name: "樋口 尚泰",
     title: "フルスタックエンジニア",
     links: ["About", "Experience", "Projects", "Skills", "Contact"]
   },
